@@ -11,7 +11,7 @@ Config.ItemName = "chips"
 
 Config.UseMoney = true
 
-Config.BettingTime = 20 --seconds
+Config.BettingTime = 20 --in seconds
 
 Config.ActivateSounds = true
 
